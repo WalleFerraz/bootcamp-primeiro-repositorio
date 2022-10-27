@@ -1,0 +1,15 @@
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\bin\Debug\net6.0\funcamentos-de-c#.exe
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\bin\Debug\net6.0\funcamentos-de-c#.deps.json
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\bin\Debug\net6.0\funcamentos-de-c#.runtimeconfig.json
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\bin\Debug\net6.0\funcamentos-de-c#.dll
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\bin\Debug\net6.0\funcamentos-de-c#.pdb
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\obj\Debug\net6.0\funcamentos-de-c#.csproj.AssemblyReference.cache
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\obj\Debug\net6.0\funcamentos-de-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\obj\Debug\net6.0\funcamentos-de-c#.AssemblyInfoInputs.cache
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\obj\Debug\net6.0\funcamentos-de-c#.AssemblyInfo.cs
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\obj\Debug\net6.0\funcamentos-de-c#.csproj.CoreCompileInputs.cache
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\obj\Debug\net6.0\funcamentos-de-c#.dll
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\obj\Debug\net6.0\refint\funcamentos-de-c#.dll
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\obj\Debug\net6.0\funcamentos-de-c#.pdb
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\obj\Debug\net6.0\funcamentos-de-c#.genruntimeconfig.cache
+C:\Users\Walisson Maria\OneDrive\Documentos\bootcamp-pottencial\funcamentos-de-c#\obj\Debug\net6.0\ref\funcamentos-de-c#.dll

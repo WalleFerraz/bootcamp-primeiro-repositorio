@@ -1,0 +1,17 @@
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\bin\Debug\net6.0\EemploExplorando.exe
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\bin\Debug\net6.0\EemploExplorando.deps.json
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\bin\Debug\net6.0\EemploExplorando.runtimeconfig.json
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\bin\Debug\net6.0\EemploExplorando.dll
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\bin\Debug\net6.0\EemploExplorando.pdb
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\obj\Debug\net6.0\EemploExplorando.csproj.AssemblyReference.cache
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\obj\Debug\net6.0\EemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\obj\Debug\net6.0\EemploExplorando.AssemblyInfoInputs.cache
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\obj\Debug\net6.0\EemploExplorando.AssemblyInfo.cs
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\obj\Debug\net6.0\EemploExplorando.csproj.CoreCompileInputs.cache
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\obj\Debug\net6.0\EemploExplorando.dll
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\obj\Debug\net6.0\refint\EemploExplorando.dll
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\obj\Debug\net6.0\EemploExplorando.pdb
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\obj\Debug\net6.0\EemploExplorando.genruntimeconfig.cache
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\obj\Debug\net6.0\ref\EemploExplorando.dll
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Walisson Maria\OneDrive\Documentos\Meus Projetos\bootcamp-primeiro-repositorio\EemploExplorando\obj\Debug\net6.0\EemploExplorando.csproj.CopyComplete
